@@ -19,6 +19,7 @@ This project is a Google Apps Script that integrates with Jira and Google Chat t
 
 ### Demo
 ![Demo](assets/demo.png)
+<img src="assets/demo.png" width="800">
 
 ### Configuration
 

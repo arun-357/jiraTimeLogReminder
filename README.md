@@ -18,7 +18,7 @@ This project is a Google Apps Script that integrates with Jira and Google Chat t
 - Google Chat webhook URL.
 
 ### Demo
-<img src="assets/demo.png" width="400" height="600">
+<p align='center'><img src="assets/demo.png" width=200 class='center'></p>
 
 ### Configuration
 

@@ -17,6 +17,9 @@ This project is a Google Apps Script that integrates with Jira and Google Chat t
 - Jira account with API access.
 - Google Chat webhook URL.
 
+### Demo
+![Demo](assets/demo.png)
+
 ### Configuration
 
 1. **Clone the repository:**
